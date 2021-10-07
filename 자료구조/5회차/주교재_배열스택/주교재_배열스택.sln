@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "주교재_배열스택", "주교재_배열스택.vcxproj", "{315E511D-1443-4DD5-B903-B511E11C6730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Debug|x64.ActiveCfg = Debug|x64
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Debug|x64.Build.0 = Debug|x64
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Debug|x86.ActiveCfg = Debug|Win32
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Debug|x86.Build.0 = Debug|Win32
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Release|x64.ActiveCfg = Release|x64
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Release|x64.Build.0 = Release|x64
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Release|x86.ActiveCfg = Release|Win32
+		{315E511D-1443-4DD5-B903-B511E11C6730}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60014E05-E1FA-4011-817F-A6B14BDEAA4C}
+	EndGlobalSection
+EndGlobal
